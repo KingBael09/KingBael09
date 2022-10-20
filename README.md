@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-![](https://komarev.com/ghpvc/?username=KingBael09&label=Total+Views&style=for-the-badge&color=brightgreen)
+(https://komarev.com/ghpvc/?username=KingBael09&label=Total+Views&style=for-the-badge&color=brightgreen)
   
 </p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/KingBael09/count.svg" />
-</p>
