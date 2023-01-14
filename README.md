@@ -5,7 +5,6 @@
 </div>
 
 <h1 align="center">Hi there 👋</h1>
-<hr/>
 
 [![KingBael's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingBael09&show_icons=true&theme=transparent&text_color=fff&hide_border=true&include_all_commits=true)](https://github.com/KingBael09?tab=repositories)
 
