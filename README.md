@@ -19,6 +19,10 @@
   </a>
 <div>
 
+<div align="start">
+
 ### Check Out My [Portfolio!](https://jayesh-singh.vercel.app/)
 
 ![Image](./assets/Bottom_down.svg)
+
+</div>
