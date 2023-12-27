@@ -1,5 +1,4 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi there! I'm Jayesh
-&nbsp;
 <div>
 <a href="https://jayesh-singh.vercel.app">
 <img align="left" alt="Static Badge" src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=jameson&logoColor=black">
