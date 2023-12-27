@@ -21,12 +21,9 @@
 <div>
 &nbsp;
 </div>
-
-## About Me
-
-- :brain: Learning Rust
-- :eyes: Looking for Opportunities
-- :heart: Love TypeScript
+<div>
+&nbsp;
+</div>
 
 <div>
 <a href="https://github.com/KingBael09">
