@@ -1,28 +1,29 @@
-<div align="right">
+# Hi, I am Jayesh Singh
 
-![](https://komarev.com/ghpvc/?username=KingBael09&label=Total+Views&style=for-the-badge&color=brightgreen)
-
+<div>
+<a href="https://jayesh-singh.vercel.app">
+<img align="left" alt="Static Badge" src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=jameson&logoColor=black">
+</a>
+<a href="https://jayesh-singh.vercel.app">
+<img align="left" alt="Static Badge" src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode">
+</a>
+<a href="https://wakatime.com/@KingBael">
+<img align="right" src="https://wakatime.com/badge/user/018c78f0-4d35-4c70-9a1e-60d30579d088.svg?style=for-the-badge">
+</a>
+<a href="https://wakatime.com/@KingBael">
+<img align="right" src="https://komarev.com/ghpvc/?username=KingBael09&label=Total+Views&style=for-the-badge&color=brightgreen">
+</a>
 </div>
+  
+---
 
-<div align="center">
-  <h1>
-    <a href="https://github.com/KingBael09">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Jayesh%F0%9F%91%8B">
-    </a>
-  </h1>
-</div>
+&nbsp;
 
-<div align="center">
-  <a href="https://github.com/KingBael09">
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=KingBael09&show_icons=true&theme=transparent&text_color=fff&hide_border=true&include_all_commits=true)" alt="KingBael's GitHub stats"/>
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingBael09&layout=compact&theme=transparent&text_color=fff&hide_border=true" alt="Top Langs"/>
-  </a>
+<div>
+<a href="https://github.com/KingBael09">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=KingBael09&show_icons=true&theme=transparent&text_color=fff&hide_border=true&include_all_commits=true)" alt="KingBael's GitHub stats"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingBael09&layout=compact&theme=transparent&text_color=fff&hide_border=true" alt="Top Langs"/>
+</a>
 <div>
 
-<div align="start">
-
-### Check Out My [Portfolio!](https://jayesh-singh.vercel.app/)
-
 ![Image](./assets/Bottom_down.svg)
-
-</div>
