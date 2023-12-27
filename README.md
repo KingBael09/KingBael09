@@ -1,5 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi there! I'm Jayesh
-
+&nbsp;
 <div>
 <a href="https://jayesh-singh.vercel.app">
 <img align="left" alt="Static Badge" src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=jameson&logoColor=black">
@@ -14,7 +14,6 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=KingBael09&label=Total+Views&style=for-the-badge&color=brightgreen">
 </a>
 </div>
-  
 <div>
 &nbsp;
 </div>
@@ -24,7 +23,6 @@
 <div>
 &nbsp;
 </div>
-
 <div>
 <a href="https://github.com/KingBael09">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=KingBael09&show_icons=true&theme=transparent&text_color=fff&hide_border=true&include_all_commits=true)" alt="KingBael's GitHub stats"/>
