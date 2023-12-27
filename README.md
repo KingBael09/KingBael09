@@ -1,5 +1,5 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi there! 
-I am Jayesh, a Full-Stack Developer from India
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi there! I'm Jayesh
+
 <div>
 <a href="https://jayesh-singh.vercel.app">
 <img align="left" alt="Static Badge" src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=jameson&logoColor=black">
@@ -22,7 +22,11 @@ I am Jayesh, a Full-Stack Developer from India
 &nbsp;
 </div>
 
-&nbsp;
+## About Me
+
+- :brain: Learning Rust
+- :eyes: Looking for Opportunities
+- :heart: Love TypeScript
 
 <div>
 <a href="https://github.com/KingBael09">
