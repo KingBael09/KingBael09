@@ -1,9 +1,10 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hi there!
+
 <div>
 <a href="https://jayesh-singh.vercel.app">
 <img align="left" alt="Static Badge" src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=jameson&logoColor=black">
 </a>
-<a href="https://jayesh-singh.vercel.app">
+<a href="https://leetcode.com/KingBael">
 <img align="left" alt="Static Badge" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FKingBael&logo=leetcode&logoColor=yellow">
 </a>
 <a href="https://wakatime.com/@KingBael">
